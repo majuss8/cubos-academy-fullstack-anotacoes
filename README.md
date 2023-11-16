@@ -1,0 +1,1 @@
+Repositório de projetos e atividades do curso de programação full-stack da cubos academy.
