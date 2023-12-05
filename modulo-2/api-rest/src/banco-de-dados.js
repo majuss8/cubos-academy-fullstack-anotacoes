@@ -1,5 +1,6 @@
 const bancoDeDados = {
     identificadorInstrutor: 3,
+    identificadorAula: 2,
     instrutores: [
         {
             id: 1,
@@ -13,6 +14,14 @@ const bancoDeDados = {
             email: 'guidogmail.com',
             status: true
         }        
+    ],
+    aulas: [
+        {
+            id: 1,
+            instrutor_id: 1,
+            titulo: 'Primeiro servidor',
+            descricao: 'Construindo o primeiro servidor'
+        }
     ]
 };
 
